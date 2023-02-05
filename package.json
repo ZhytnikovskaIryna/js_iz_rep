@@ -1,0 +1,22 @@
+{
+  "name": "iz_js",
+  "version": "1.0.0",
+  "description": "first js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhytnikovskaIryna/js_git_iz.git"
+  },
+  "keywords": [
+    "js_try"
+  ],
+  "author": "IrynaZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhytnikovskaIryna/js_git_iz/issues"
+  },
+  "homepage": "https://github.com/ZhytnikovskaIryna/js_git_iz#readme"
+}
