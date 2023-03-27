@@ -8,8 +8,9 @@ catch{
 }
 // When running 1/0, the error 'cannot be divided by zero'
 try{
-console.log(1/0);
+a=1/0;
+throw new SyntaxError("cannot be divided by zero")
 }
-catch{
-    console.log('cannot be divided by zero');
+catch (err){
+    console.log(err.message);
 }
