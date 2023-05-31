@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZhytnikovskaIryna/js_git_iz.git"
+    "url": "git+https://github.com/ZhytnikovskaIryna/js_iz_rep"
   },
   "keywords": [
     "js_try"
@@ -16,7 +16,7 @@
   "author": "IrynaZ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZhytnikovskaIryna/js_git_iz/issues"
+    "url": "https://github.com/ZhytnikovskaIryna/js_iz_rep/issues"
   },
-  "homepage": "https://github.com/ZhytnikovskaIryna/js_git_iz#readme"
+  "homepage": "https://github.com/ZhytnikovskaIryna/js_iz_rep#readme"
 }
